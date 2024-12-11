@@ -1,4 +1,6 @@
-# Speech DeNoiser with Autoencoder and GAN
+# HarmoniGAN: Historical Audio Restoration via Melodic Optimization and Inpainting Networks
+
+You can find the full code in our GitHub repository: https://github.com/johannasmriti/restoringAudio
 
 This repository provides a deep learning model for denoising speech signals using a combination of **Autoencoder** and **Generative Adversarial Networks (GANs)**. The goal is to train a model that can take noisy speech as input and output clean speech.
 
