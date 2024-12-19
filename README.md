@@ -10,7 +10,6 @@ This repository provides a deep learning model for denoising speech signals usin
 - [Requirements](#requirements)
 - [Setup Instructions](#setup-instructions)
   - [1. Download Dataset](#1-download-dataset)
-  - [2. Directory Structure](#2-directory-structure)
 - [Model Architecture](#model-architecture)
   - [1. Autoencoder Model](#1-autoencoder-model)
   - [2. GAN for Denoising](#2-gan-for-denoising)
