@@ -70,26 +70,6 @@ Ensure that the audio files are in `.wav` format.
 
 ---
 
-### 2. Directory Structure
-
-The project directory should look something like this:
-
-```plaintext
-Speech_DeNoiser_AE/
-├── Dataset/
-│   ├── train/
-│   │   ├── train-clean/
-│   │   ├── train-noisy/
-├── trained_models/
-│   ├── pretrained_model.h5  # Example pretrained model (can be autoencoder)
-├── myModel/
-│   ├── fine_tuned_model.h5  # Fine-tuned model after training
-├── audio_denoiser.py  # Main script for audio denoising
-└── README.md
-```
-
----
-
 ## Model Architecture
 
 ### 1. Autoencoder Model
